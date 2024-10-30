@@ -1,0 +1,30 @@
+C:\Users\Acer\OneDrive\Desktop\Scrol\bin\Debug\Scrol.exe.config
+C:\Users\Acer\OneDrive\Desktop\Scrol\bin\Debug\Scrol.exe
+C:\Users\Acer\OneDrive\Desktop\Scrol\bin\Debug\Scrol.pdb
+C:\Users\Acer\OneDrive\Desktop\Scrol\obj\Debug\Scrol.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\Scrol\obj\Debug\MainWindow.g.cs
+C:\Users\Acer\OneDrive\Desktop\Scrol\obj\Debug\App.g.cs
+C:\Users\Acer\OneDrive\Desktop\Scrol\obj\Debug\Scrol_MarkupCompile.cache
+C:\Users\Acer\OneDrive\Desktop\Scrol\obj\Debug\Scrol_MarkupCompile.lref
+C:\Users\Acer\OneDrive\Desktop\Scrol\obj\Debug\MainWindow.baml
+C:\Users\Acer\OneDrive\Desktop\Scrol\obj\Debug\Scrol.g.resources
+C:\Users\Acer\OneDrive\Desktop\Scrol\obj\Debug\Scrol.Properties.Resources.resources
+C:\Users\Acer\OneDrive\Desktop\Scrol\obj\Debug\Scrol.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Desktop\Scrol\obj\Debug\Scrol.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\Scrol\obj\Debug\Scrol.exe
+C:\Users\Acer\OneDrive\Desktop\Scrol\obj\Debug\Scrol.pdb
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\Lera\bin\Debug\Scrol.exe.config
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\Lera\bin\Debug\Scrol.exe
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\Lera\bin\Debug\Scrol.pdb
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\Lera\obj\Debug\Scrol.csproj.AssemblyReference.cache
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\Lera\obj\Debug\MainWindow.g.cs
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\Lera\obj\Debug\App.g.cs
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\Lera\obj\Debug\Scrol_MarkupCompile.cache
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\Lera\obj\Debug\Scrol_MarkupCompile.lref
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\Lera\obj\Debug\MainWindow.baml
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\Lera\obj\Debug\Scrol.g.resources
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\Lera\obj\Debug\Scrol.Properties.Resources.resources
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\Lera\obj\Debug\Scrol.csproj.GenerateResource.cache
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\Lera\obj\Debug\Scrol.csproj.CoreCompileInputs.cache
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\Lera\obj\Debug\Scrol.exe
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\Lera\obj\Debug\Scrol.pdb
